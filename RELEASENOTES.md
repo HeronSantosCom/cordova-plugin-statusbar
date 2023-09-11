@@ -20,9 +20,10 @@
 -->
 # Release Notes
 
-### 4.0.1 (Nov 25, 2021)
+### 4.0.1 (Sep 11, 2023)
 
-* [GH-224](https://github.com/apache/cordova-plugin-statusbar/pull/224) fix: update engines for working on 3.0.0
+* Updates and fixes by [dpalou@46f033f880962ad0f9a5a1dfaaae378ba98575a6 committed Sep 8, 2023](https://github.com/moodlemobile/cordova-plugin-statusbar/commit/46f033f880962ad0f9a5a1dfaaae378ba98575a6)
+
 
 ### 3.0.0 (Nov 25, 2021)
 
