@@ -20,6 +20,10 @@
 -->
 # Release Notes
 
+### 4.0.1 (Nov 25, 2021)
+
+* [GH-224](https://github.com/apache/cordova-plugin-statusbar/pull/224) fix: update engines for working on 3.0.0
+
 ### 3.0.0 (Nov 25, 2021)
 
 * [GH-224](https://github.com/apache/cordova-plugin-statusbar/pull/224) fix: update engines for working on 3.0.0

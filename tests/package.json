@@ -1,9 +1,9 @@
 {
-  "name": "@moodlehq/cordova-plugin-statusbar-tests",
-  "version": "4.0.0-moodle.2",
+  "name": "cordova-plugin-statusbar-tests",
+  "version": "4.0.1",
   "description": "",
   "cordova": {
-    "id": "@moodlehq/cordova-plugin-statusbar-tests",
+    "id": "cordova-plugin-statusbar-tests",
     "platforms": []
   },
   "keywords": [
